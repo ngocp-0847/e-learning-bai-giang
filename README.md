@@ -44,3 +44,11 @@
    - Basic Infrastructure đến Data Pipeline Architecture
    - Syntax và Best Practices
 
+### 🎯 **Hướng dẫn chuyên sâu**
+
+7. **[Hướng dẫn Server-Side Developer](./huong-dan-server-side-developer.md)**
+   - Áp dụng nguyên lý thiết kế phần mềm vào kiến trúc thực tế
+   - Cầu nối giữa lý thuyết và thực hành trong thiết kế backend
+   - Quy trình đánh giá và tùy chỉnh kiến trúc cho dự án
+   - Case studies và best practices từ thực tế
+
